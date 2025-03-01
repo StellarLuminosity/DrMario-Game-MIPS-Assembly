@@ -1,4 +1,4 @@
-# Dr. Mario - Assembly Game Design  
+# Dr. Mario - Assembly Game Design 👾
 
 ## Overview  
 This project is a **MIPS assembly** recreation of the classic Nintendo **Dr. Mario** game, developed for the **CSC258: Computer Organization** course using the Saturn MIPS simulator. Players are able to control falling **colored capsules**, rotate and position them to match **four or more** of the same color in a row or column to eliminate viruses.  
